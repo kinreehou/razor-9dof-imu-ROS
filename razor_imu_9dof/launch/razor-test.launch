@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="razor_imu_9dof" type="test.py" name="test" output="screen">
+  </node>
+  
+</launch>

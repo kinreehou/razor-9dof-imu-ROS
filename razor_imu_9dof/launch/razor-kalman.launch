@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="razor_imu_9dof" type="kalman_imu.py" name="kalman_imu" output="screen">
+  </node>
+  
+</launch>
